@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#form{
+    width: 500px;
+    height: 700px;
+    background-color: lightgray;
+    padding: 10px;
+    text-align: center;
+}
+
+.div-main{
+    margin: 10px;
+}
